@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5612dff.css",
-    "main.js": "/static/js/main.63166379.js",
-    "static/js/787.0420ccf9.chunk.js": "/static/js/787.0420ccf9.chunk.js",
-    "static/media/cross-23.svg": "/static/media/cross-23.5ea07ee3fe76b600785cbfc098880d44.svg",
-    "index.html": "/index.html",
-    "main.e5612dff.css.map": "/static/css/main.e5612dff.css.map",
-    "main.63166379.js.map": "/static/js/main.63166379.js.map",
-    "787.0420ccf9.chunk.js.map": "/static/js/787.0420ccf9.chunk.js.map"
+    "main.css": "/assignment/static/css/main.e5612dff.css",
+    "main.js": "/assignment/static/js/main.cb81c036.js",
+    "static/js/787.0420ccf9.chunk.js": "/assignment/static/js/787.0420ccf9.chunk.js",
+    "static/media/cross-23.svg": "/assignment/static/media/cross-23.5ea07ee3fe76b600785cbfc098880d44.svg",
+    "index.html": "/assignment/index.html",
+    "main.e5612dff.css.map": "/assignment/static/css/main.e5612dff.css.map",
+    "main.cb81c036.js.map": "/assignment/static/js/main.cb81c036.js.map",
+    "787.0420ccf9.chunk.js.map": "/assignment/static/js/787.0420ccf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5612dff.css",
-    "static/js/main.63166379.js"
+    "static/js/main.cb81c036.js"
   ]
 }
